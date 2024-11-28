@@ -25,9 +25,7 @@
   },
   "manifest": {
     "permissions": [
-      "activeTab",
-      "*://*.qzone.qq.com/*",
-      "*://*.gtimg.cn/*"
+      "activeTab"
     ],
     "host_permissions": [
       "*://*.qzone.qq.com/*",
