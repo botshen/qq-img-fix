@@ -1,9 +1,9 @@
 {
   "name": "qq-img-fix",
-  "displayName": "Qq img fix",
+  "displayName": "qq空间留言板失效表情修复",
   "version": "0.0.1",
-  "description": "A basic Plasmo extension.",
-  "author": "Plasmo Corp. <foss@plasmo.com>",
+  "description": "qq空间留言板失效表情修复",
+  "author": "李华",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
