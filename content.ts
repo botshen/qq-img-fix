@@ -22,12 +22,9 @@ const observer = new MutationObserver((mutations) => {
               img.src = newSrc
             }
             // 可以添加以下样式类
-            img.classList.add(
-              "w-auto",
-              "h-auto",
-              "inline-block",
-              "align-middle"
-            )
+            img.style.width = '24px'
+            img.style.height = '24px'
+            img.style.verticalAlign = 'middle'
           }
         })
       }
